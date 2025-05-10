@@ -1,0 +1,4 @@
+ipykernel
+# openimages
+# fiftyone
+ultralytics
